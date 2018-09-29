@@ -48,3 +48,4 @@ Temporary Items
 target/classes/META-INF/MANIFEST.MF
 target/classes/META-INF/maven/org.psc.xml/xml-draft/pom.properties
 target/classes/org/psc/xml/xmldraft/XmlElementReflector.class
+target/classes/META-INF/maven/org.psc.xml/xml-draft/pom.properties
