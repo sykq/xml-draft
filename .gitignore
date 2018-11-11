@@ -46,3 +46,4 @@ Network Trash Folder
 Temporary Items
 .apdisk
 target
+target/classes/META-INF/maven/org.psc.xml/xml-draft/pom.properties
